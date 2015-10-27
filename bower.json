@@ -1,0 +1,7 @@
+{
+  "name": "requirejs-test",
+  "dependencies": {
+    "web3": "~0.14.0",
+    "requirejs": "~2.1.20"
+  }
+}
